@@ -8,7 +8,9 @@ public class testklasse {
 
 
 		
-		System.out.println("Test");
+		System.out.println("irgendwas");
+if(false)
+System.out.println("lololdaswirdniegeschrieben");
 		
 
 	}
