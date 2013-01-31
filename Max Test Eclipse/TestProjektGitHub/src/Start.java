@@ -1,4 +1,3 @@
-
 public class Start {
 
 	/**
@@ -6,7 +5,7 @@ public class Start {
 	 */
 	public static void main(String[] args) {
 		
-		System.out.println("Hallo Welt, Max");
+		System.out.println("Hallo Welt,   jfle Max");
 		// TODO Auto-generated method stub
 
 	}
