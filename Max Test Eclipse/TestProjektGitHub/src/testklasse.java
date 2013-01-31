@@ -7,7 +7,8 @@ public class testklasse {
 	public static void main(String[] args) {
 
 
-		System.out.println("hihihihi");
+		System.out.println("Was ist weiß und stört beim Essen? Eine Lawine!");
+		
 
 	}
 
