@@ -7,14 +7,11 @@ public class Start {
 		
 		System.out.println("Hallo Welt,   jfle Max");
 		// TODO Auto-generated method stub
-<<<<<<< HEAD
 		System.out.printf("Irgendwas stimmt nicht so wirklich");
 
-=======
 	System.out.println("Hallo Welt! TEST!");
 	System.out.println("TESTTEST");
 	
->>>>>>> refs/remotes/origin/master
 	}
 
 }
