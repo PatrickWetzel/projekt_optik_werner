@@ -8,6 +8,7 @@ public class Start {
 		System.out.println("Hallo Welt,   jfle Max");
 		// TODO Auto-generated method stub
 		System.out.printf("Irgendwas stimmt nicht so wirklich");
+		System.out.printf("Irgendwas stimmt nicht");
 
 	System.out.println("Hallo Welt! TEST!");
 	System.out.println("TESTTEST");
