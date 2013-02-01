@@ -7,8 +7,6 @@ public class Start {
 		
 		// TODO Auto-generated method stub
 		System.out.printf("Irgendwas stimmt nicht so wirklich");
-		System.out.printf("Irgendwas stimmt nicht");
-
 		System.out.println("Ich bin jetzt in meinem Branch");
 
 	
